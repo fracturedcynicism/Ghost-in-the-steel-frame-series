@@ -1,37 +1,54 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "Ghost in the steel frame",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "tagline": "A classic and neo-nior mystery thriller series spanning over timelines.",
     "badge": "Series",
-    "synopsis": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "synopsis": "A classic and neo-nior mystery thriller series spanning over timelines.",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
+      "slug": "ACT I: THE BREACH",
+      "title": "ACT I: THE BREACH",
       "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
-      "setting": "Vedic India"
+      "file": "books/ACT I: THE BREACH.txt",
+      "setting": "Modern India"
     },
         {
       "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
+      "slug": "ACT II: THE INHERITED FRAME",
+      "title": "ACT II: THE INHERITED FRAME",
       "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
+      "file": "books/ACT II: THE INHERITED FRAME.txt",
+      "setting": "Modern India"
     },
         {
       "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
+      "slug": "ACT III: THE CONVERGENCE",
+      "title": "ACT III: THE CONVERGENCE",
       "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "file": "books/ACT III: THE CONVERGENCE.txt",
+      "setting": "Modern India"
+    },
+            {
+      "id": 4,
+      "slug": "ACT IV: THE EXPOSURE",
+      "title": "ACT IV: THE EXPOSURE",
+      "subtitle": "Novel",
+      "file": "books/ACT IV: THE EXPOSURE.txt",
+      "setting": "Modern India"
+    },
+    ,
+            {
+      "id": 5,
+      "slug": "ACT V: THE PERSISTENCE & THE REFUSAL",
+      "title": "ACT V: THE PERSISTENCE & THE REFUSAL",
+      "subtitle": "Novel",
+      "file": "books/ACT V: THE PERSISTENCE & THE REFUSAL.txt",
+      "setting": "Contemporary India"
     }
   ]
 }
