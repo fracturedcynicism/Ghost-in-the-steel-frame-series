@@ -1,53 +1,28 @@
 {
   "series": {
-    "title": "Ghost in the steel frame",
+    "title": "Ghost in the Steel Frame",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A classic and neo-nior mystery thriller series spanning over timelines.",
+    "tagline": "A classic and neo-noir mystery thriller series spanning over timelines.",
     "badge": "Series",
-    "synopsis": "A classic and neo-nior mystery thriller series spanning over timelines.",
+    "synopsis": "A classic and neo-noir mystery thriller series spanning over timelines.",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
-    {
-      "id": 1,
-      "slug": "ACT I: THE BREACH",
-      "title": "ACT I: THE BREACH",
-      "subtitle": "Novel",
-      "file": "books/ACT I: THE BREACH.txt",
-      "setting": "Modern India"
-    },
-        {
-      "id": 2,
-      "slug": "ACT II: THE INHERITED FRAME",
-      "title": "ACT II: THE INHERITED FRAME",
-      "subtitle": "Novel",
-      "file": "books/ACT II: THE INHERITED FRAME.txt",
-      "setting": "Modern India"
-    },
-        {
-      "id": 3,
-      "slug": "ACT III: THE CONVERGENCE",
-      "title": "ACT III: THE CONVERGENCE",
-      "subtitle": "Novel",
-      "file": "books/ACT III: THE CONVERGENCE.txt",
-      "setting": "Modern India"
-    },
-            {
-      "id": 4,
-      "slug": "ACT IV: THE EXPOSURE",
-      "title": "ACT IV: THE EXPOSURE",
-      "subtitle": "Novel",
-      "file": "books/ACT IV: THE EXPOSURE.txt",
-      "setting": "Modern India"
-    },
-            {
-      "id": 5,
-      "slug": "ACT V: THE PERSISTENCE & THE REFUSAL",
-      "title": "ACT V: THE PERSISTENCE & THE REFUSAL",
-      "subtitle": "Novel",
-      "file": "books/ACT V: THE PERSISTENCE & THE REFUSAL.txt",
-      "setting": "Contemporary India"
-    }
+    { "id": 1, "slug": "act-1-the-breach",
+      "title": "ACT I: THE BREACH", "subtitle": "Novel",
+      "file": "books/act-1-the-breach.txt", "setting": "Modern India" },
+    { "id": 2, "slug": "act-2-the-inherited-frame",
+      "title": "ACT II: THE INHERITED FRAME", "subtitle": "Novel",
+      "file": "books/act-2-the-inherited-frame.txt", "setting": "Modern India" },
+    { "id": 3, "slug": "act-3-the-convergence",
+      "title": "ACT III: THE CONVERGENCE", "subtitle": "Novel",
+      "file": "books/act-3-the-convergence.txt", "setting": "Modern India" },
+    { "id": 4, "slug": "act-4-the-exposure",
+      "title": "ACT IV: THE EXPOSURE", "subtitle": "Novel",
+      "file": "books/act-4-the-exposure.txt", "setting": "Modern India" },
+    { "id": 5, "slug": "act-5-the-persistence-and-the-refusal",
+      "title": "ACT V: THE PERSISTENCE & THE REFUSAL", "subtitle": "Novel",
+      "file": "books/act-5-the-persistence-and-the-refusal.txt", "setting": "Contemporary India" }
   ]
 }
